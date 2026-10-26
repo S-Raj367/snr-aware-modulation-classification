@@ -741,18 +741,4 @@ The final result is a compact and interpretable classical machine learning pipel
 
 ---
 
-## Project status
 
-**Machine learning experimentation: complete**
-
-**Held-out test evaluation: complete**
-
-**Inference pipeline: complete**
-
-**Public Streamlit deployment: complete**
-
-The final feature representation, Random Forest configuration and held-out test results are frozen.
-
-### Live application
-
-[🚀 Automatic Modulation Classification Demo](https://snr-aware-modulation-classification-5edwynqwb64ftphsgp3gxt.streamlit.app/)
