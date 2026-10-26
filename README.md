@@ -12,7 +12,7 @@ The final system uses a **Random Forest classifier with 29 handcrafted signal fe
 
 Try the interactive Automatic Modulation Classification demo:
 
-### [Open the Streamlit Demo](https://snr-aware-modulation-classification-5edwynqwb64ftphsgp3gxt.streamlit.app/)
+### [Open the Streamlit Demo](https://snr-aware-modulation-classification-eypvs4xn772vrfxofvaxyt.streamlit.app/)
 
 The demo allows you to:
 
